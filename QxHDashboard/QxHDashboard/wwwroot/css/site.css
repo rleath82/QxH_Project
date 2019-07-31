@@ -1,0 +1,341 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    vertical-align: middle;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+th {
+    background-color: #39c;
+    color: white;
+    border: 1px solid lightgray;
+    padding: 2px;
+}
+
+td {
+    border: 1px solid lightgray;
+    font-weight: bold;
+}
+
+.navbar navbar-expand-sm {
+    background-color: black;
+}
+
+div.container {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bg-dark {
+    background-image: linear-gradient(black,gray);
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bg-white {
+    background-image: linear-gradient(#05649c, #389ad3, #05649c);
+    color: white;
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.variant {
+    background-image: linear-gradient(#e9f4f9,#39c);
+}
+
+.variant-page {
+    background-color: white;
+    opacity: 1;
+    box-shadow: 5px 10px 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+    /*width: 69.2%;*/
+    /*width: 1301px;*/
+}
+
+.page {
+    float: left;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.pageMain {
+    float: left;
+    width: 70%;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.pageSide:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#hsnComFrame, #rightPanel {
+    border-top-left-radius: 5px;
+}
+
+#showCardList {
+    max-height: 250px;
+    overflow: auto;
+}
+
+#showCardRow {
+    background-color: #c6caeb;
+}
+
+select #merchSelect {
+    margin-left: 2em;
+}
+
+/*--------------Row Color Highlights------------*/
+
+.decrease {
+    -webkit-animation: decrease_color_change .5s 2 alternate;
+    -moz-animation: decrease_color_change .5s 2 alternate;
+    -ms-animation: decrease_color_change .5s 2 alternate;
+    -o-animation: decrease_color_change .5s 2 alternate;
+    animation: decrease_color_chanage .5s 2 alternate;
+}
+
+@-webkit-keyframes decrease_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(255,148,148);
+    }
+}
+
+@-moz-keyframes decrease_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(255,148,148);
+    }
+}
+
+@-ms-keyframes decrease_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(255,148,148);
+    }
+}
+
+@-o-keyframes decrease_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(255,148,148);
+    }
+}
+
+@keyframes decrease_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(255,148,148);
+    }
+}
+
+
+.increase {
+    -webkit-animation: increase_color_change .5s 2 alternate;
+    -moz-animation: increase_color_change .5s 2 alternate;
+    -ms-animation: increase_color_change .5s 2 alternate;
+    -o-animation: increase_color_change .5s 2 alternate;
+    animation: increase_color_change .5s 2 alternate;
+}
+
+@-webkit-keyframes increase_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(154,240,117);
+    }
+}
+
+@-moz-keyframes increase_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(154,240,117);
+    }
+}
+
+@-ms-keyframes increase_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(154,240,117);
+    }
+}
+
+@-o-keyframes increase_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(154,240,117);
+    }
+}
+
+@keyframes increase_color_change {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: rgb(154,240,117);
+    }
+}
+
+.high {
+    background: rgb(154,240,117);
+    transition: background 1s;
+}
+
+
+/*--------------Slider Button-------------------*/
+div.toggleSwitch {
+    vertical-align: middle;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    border: 1.5px solid #3f3f3f;
+    background-color: lightgrey;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .slider {
+    background-color: #ffff42;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #ffff42;
+}
+
+input:checked + .slider:before{
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}

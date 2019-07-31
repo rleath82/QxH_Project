@@ -1,0 +1,84 @@
+﻿@model QxHOrderSystem.Models.USA
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>USA</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.planSeqId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.planSeqId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.itemDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.itemDescription)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.orderQuantity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.orderQuantity)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.orderSldTdy)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.orderSldTdy)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.plannedMinutesQty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.plannedMinutesQty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.actualMinutesQty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.actualMinutesQty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.networkId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.networkId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.companyId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.companyId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.avaiForSaleQty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.avaiForSaleQty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.showDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.showDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.showCd)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.showCd)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ShowItemId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

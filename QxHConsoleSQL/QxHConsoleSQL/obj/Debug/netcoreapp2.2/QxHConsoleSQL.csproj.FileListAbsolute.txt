@@ -1,0 +1,22 @@
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.deps.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.runtimeconfig.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.runtimeconfig.dev.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.csprojAssemblyReference.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.deps.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.runtimeconfig.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.runtimeconfig.dev.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\bin\Debug\netcoreapp2.2\QxHConsoleSQL.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.csprojAssemblyReference.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHConsoleSQL\QxHConsoleSQL\obj\Debug\netcoreapp2.2\QxHConsoleSQL.pdb

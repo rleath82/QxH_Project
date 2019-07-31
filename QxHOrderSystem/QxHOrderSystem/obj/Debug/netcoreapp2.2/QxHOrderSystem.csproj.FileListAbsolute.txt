@@ -1,0 +1,70 @@
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.deps.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.runtimeconfig.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.runtimeconfig.dev.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorAssemblyInfo.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorAssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.TagHelpers.input.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.TagHelpers.output.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorCoreGenerate.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.Views.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.Views.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.Views.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.csproj.CopyComplete
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Create.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Delete.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Details.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Edit.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Index.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.csprojAssemblyReference.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.deps.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.runtimeconfig.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.runtimeconfig.dev.json
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.Views.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\bin\Debug\netcoreapp2.2\QxHOrderSystem.Views.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.csprojAssemblyReference.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorAssemblyInfo.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorAssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.TagHelpers.input.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.TagHelpers.output.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorCoreGenerate.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Create.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Delete.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Details.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Edit.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\USAs\Index.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.Views.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.dll
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.pdb
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHOrderSystem\QxHOrderSystem\obj\Debug\netcoreapp2.2\QxHOrderSystem.csproj.CopyComplete

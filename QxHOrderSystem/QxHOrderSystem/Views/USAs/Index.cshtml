@@ -1,0 +1,107 @@
+﻿@model PaginatedList<QxHOrderSystem.Models.USA>
+
+@{
+    ViewData["Title"] = "Index";
+}
+    <div class="container">
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+
+        <form asp-action="Index" method="get">
+            <div class="form-actions no-color">
+                <p>
+                    Find by Item Description or ItemId: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
+                    <input type="submit" value="Search" class="btn btn-default" /> |
+                    <a asp-action="Index">Back to Full List</a>
+                </p>
+            </div>
+        </form>
+
+        @{
+            var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+            var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+        }
+
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-outline-dark @prevDisabled">
+            Previous
+        </a>
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-outline-dark @nextDisabled">
+            Next
+        </a>
+
+
+        <table class="table-striped" id="header-fixed">
+            <thead>
+                <tr>
+                    <th>Order Quantity</th>
+                    <th style="width: 5em;">
+                        <a asp-action="Index" asp-route-sortOrder="@ViewData["ItemIdSortParam"]">Item Id</a>
+                    </th>
+                    <th>Item Description</th>
+                    <th>Available For Sale</th>
+                    <th>
+                        <a asp-action="Index" asp-route-sortOrder="@ViewData["ShowCdSortParam"]">Show Card</a>
+                    </th>
+                    <th>Show Time</th>
+                    <th>
+                        <a asp-action="Index" asp-route-sortOrder="@ViewData["CompanySortParam"]">Company Id</a>
+                    </th>
+                    <th>
+                        <a asp-action="Index" asp-route-sortOrder="@ViewData["NetworkSortParam"]">Network Id</a>
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <form asp-action="Order">
+                                <input type="submit" class="btn btn-outline-dark" value="Order" />
+                                @Html.Hidden("id", item.ShowItemId)
+                                <input asp-for="@item.InputQty" name="InputQty" class="form-control" id="inputQty" value="" />
+                            </form>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.itemId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.itemDescription)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.avaiForSaleQty)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.showCd)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.showDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.companyId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.networkId)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.ShowItemId">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.ShowItemId">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.ShowItemId">Delete</a>
+                        </td>
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>

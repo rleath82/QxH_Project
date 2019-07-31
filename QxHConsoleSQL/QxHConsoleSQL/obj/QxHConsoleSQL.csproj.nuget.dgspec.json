@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Robert Leatherman\\Desktop\\HSN Internship\\QxH FINAL PROJECT\\QxHConsoleSQL\\QxHConsoleSQL\\QxHConsoleSQL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Robert Leatherman\\Desktop\\HSN Internship\\QxH FINAL PROJECT\\QxHConsoleSQL\\QxHConsoleSQL\\QxHConsoleSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Robert Leatherman\\Desktop\\HSN Internship\\QxH FINAL PROJECT\\QxHConsoleSQL\\QxHConsoleSQL\\QxHConsoleSQL.csproj",
+        "projectName": "QxHConsoleSQL",
+        "projectPath": "C:\\Users\\Robert Leatherman\\Desktop\\HSN Internship\\QxH FINAL PROJECT\\QxHConsoleSQL\\QxHConsoleSQL\\QxHConsoleSQL.csproj",
+        "packagesPath": "C:\\Users\\Robert Leatherman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robert Leatherman\\Desktop\\HSN Internship\\QxH FINAL PROJECT\\QxHConsoleSQL\\QxHConsoleSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Robert Leatherman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CouchbaseNetClient": {
+              "target": "Package",
+              "version": "[2.7.10, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
