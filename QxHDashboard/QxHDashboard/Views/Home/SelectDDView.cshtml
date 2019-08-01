@@ -44,7 +44,7 @@
                 </tr>
                 @foreach (var item in Model.merchandise)
                 {
-                    <tr id="merchRow" data-item-type="@item.Id" class="@item.ChangeStatus">
+                    <tr id="merchRow" data-item-type="@item.Id">
                         <td class="1" width="75px">@item.PlanSeqId</td>
                         <td class="2"  width="125px">@item.ItemId</td>
                         <td class="3" width="700px">@item.ItemDescription</td>
