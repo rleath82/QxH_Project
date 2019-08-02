@@ -60,3 +60,6 @@ C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard
 C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard\QxHDashboard\obj\Debug\netcoreapp2.2\QxHDashboard.pdb
 C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard\QxHDashboard\obj\Debug\netcoreapp2.2\QxHDashboard.csproj.CopyComplete
 C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard\QxHDashboard\obj\Debug\netcoreapp2.2\QxHDashboard.csprojAssemblyReference.cache
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard\QxHDashboard\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard\QxHDashboard\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Robert Leatherman\Desktop\HSN Internship\QxH FINAL PROJECT\QxHDashboard\QxHDashboard\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs

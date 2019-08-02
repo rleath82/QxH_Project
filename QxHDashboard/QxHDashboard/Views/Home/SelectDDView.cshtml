@@ -15,12 +15,15 @@
                             </h3>
                             <form asp-action="SelectDDView" method="post" id="formSelect">
                                 <asp:UpdatePanel runat="server" id="UpdatePanel" updatemode="Conditional">
-                                <select asp-for="SelectedNetworkId" asp-items="Model.networks" id="merchSelect" style="margin-left: 1em;"></select>
-                                <select asp-for="SelectedCountryId" asp-items="Model.countries" id="merchSelect" style="margin-left: 1em;"></select>
-                                <select asp-for="SelectedCardId" asp-items="Model.cards" id="merchSelect" style="margin-left: 1em;"></select>
+                                    <label style="margin-left: 1em;">Company</label>
+                                    <select asp-for="SelectedCountryId" asp-items="Model.countries" id="merchSelect" ></select>
+                                    <label style="margin-left: 1em;">Network</label>
+                                    <select asp-for="SelectedNetworkId" asp-items="Model.networks" id="merchSelect" ></select>
+                                    <label style="margin-left: 1em;">Show Card</label>
+                                    <select asp-for="SelectedCardId" asp-items="Model.cards" id="merchSelect"></select>
                                     <Triggers>
-                                <input type="submit" value="Update" id="autoSubmit" class="btn btn-light" style="margin-left: 1em;" />
-                                        
+                                        <input type="submit" value="Update" id="autoSubmit" class="btn btn-light" style="margin-left: 1em;" />
+
                                     </Triggers>
                                 </asp:UpdatePanel>
                             </form>

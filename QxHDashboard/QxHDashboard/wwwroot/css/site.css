@@ -8,6 +8,10 @@ a.navbar-brand {
     vertical-align: middle;
 }
 
+.homePage {
+    background-image: linear-gradient(gray, black);
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -338,4 +342,15 @@ input:checked + .slider:before{
 
 .slider.round:before {
     border-radius: 50%;
+}
+
+/*--------------------Moving Image----------------------*/
+
+div.a {
+    position: fixed;
+}
+
+/**/
+.add-Color {
+    background-color: #FFFF00;
 }

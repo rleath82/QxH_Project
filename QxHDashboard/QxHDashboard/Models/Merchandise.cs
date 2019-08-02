@@ -20,9 +20,7 @@ namespace QxHDashboard.Models
         public int CompanyId { get; set; }
         public int AvaiForSaleQty { get; set; }
         public string ShowDate { get; set; }
-        public string ShowCd { get; set; }
-        [NotMapped]
-        public int ChangeStatus { get; set; }
+        public string ShowCd { get; set; }        
     }
 
     public class Country
