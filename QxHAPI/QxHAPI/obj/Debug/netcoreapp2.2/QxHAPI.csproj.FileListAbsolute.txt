@@ -1,0 +1,14 @@
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\bin\Debug\netcoreapp2.2\QxHAPI.deps.json
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\bin\Debug\netcoreapp2.2\QxHAPI.runtimeconfig.json
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\bin\Debug\netcoreapp2.2\QxHAPI.runtimeconfig.dev.json
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\bin\Debug\netcoreapp2.2\QxHAPI.dll
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\bin\Debug\netcoreapp2.2\QxHAPI.pdb
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.csproj.CoreCompileInputs.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.RazorAssemblyInfo.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.RazorAssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.AssemblyInfoInputs.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.AssemblyInfo.cs
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.dll
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.pdb
+C:\Users\Robert Leatherman\Desktop\Xamarin\QxHAPI\QxHAPI\obj\Debug\netcoreapp2.2\QxHAPI.csprojAssemblyReference.cache
